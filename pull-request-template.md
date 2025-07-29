@@ -7,8 +7,8 @@
 - [ ] I rebased before pushing my branch
 - [ ] I included local build proof
 - [ ] I added tests for this feature
-- [ ] I updated the Developer Portal
-- [ ] I added feature toggle (name below)
+- [ ] I updated the Developer Portal documentation
+- [ ] I added a feature toggle (see below)
 
 # Issues
 
@@ -18,11 +18,13 @@
 
 # Feature Toggles
 
+<!-- Environment variable? JSON file property? Do we need an infrastructure update? -->
+
 - None
 
 # Proof
 
-<!-- Add build proof. For example, the output from `npm run build` -->
+<!-- Add build proof, i.e. the output from `npm run build` -->
 
 ```bash
 TODO
