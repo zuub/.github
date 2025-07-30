@@ -9,6 +9,7 @@
 - [ ] I added tests for this feature
 - [ ] I updated the Developer Portal documentation
 - [ ] I added a feature toggle (see below)
+- [ ] I bumped the version in `package.json` (libraries only)
 
 # Issues
 
